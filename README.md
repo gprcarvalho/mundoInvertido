@@ -6,7 +6,8 @@
 
    ------
 
-   <img src="C:\Users\USER\Downloads\mundo 1.PNG" style="zoom:50%;" />
+   ![mundo 1](https://user-images.githubusercontent.com/93687632/197274093-0d5ddebf-5a96-4505-815b-4145c42266a4.PNG)
+
 
    ------
 
@@ -16,11 +17,14 @@
 
    Landing page com vários animações, formulário, tema dark/light.
 
-   <!--Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna.--> 
+   Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna.
+   
+   ![mundo 2](https://user-images.githubusercontent.com/93687632/197274205-a4f73147-d12c-4a98-a3f4-71d059ef0f3d.PNG)
+
 
    ------
 
-   <img src="C:\Users\USER\Downloads\mundo 2.PNG" style="zoom:50%;" />
+   
 
 ------
 
